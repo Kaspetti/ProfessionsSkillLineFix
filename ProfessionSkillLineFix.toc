@@ -1,0 +1,5 @@
+## Interface: 100007
+## Title: Profession Skill Line Fix
+## Notes: Fixes resetting of the profession skill line when opening the profession window
+## Version: 1.0.0
+ProfessionSkillLineFix.lua
